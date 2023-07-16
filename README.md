@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/tHC8X4L/React-Dev-Mohammed-Salman-Khan.png" align="center" style="width: 100%" />
+<img src="https://github.com/webdevsk/webdevsk/blob/3b68f0befc098e7435230ff4c1bd5b83e94200a1/React%20Dev%20-%20Mohammed%20Salman%20Khan.png" align="center" style="width: 100%" />
 </div>  
   
 
