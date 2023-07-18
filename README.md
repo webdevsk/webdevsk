@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](/React Dev - Mohammed Salman Khan.png)
+![Profile Banner](/Assets/Banner.png)
 
 </div>
 
@@ -156,4 +156,4 @@ I'm Mohammed Salman Khan, a Junior Web developer 👨‍💻 with experience of 
 
 [LinkedinLink]: https://linkedin.com/in/webdevsk
 
-[GithubLink]: https://linkedin.com/in/webdevsk
+[GithubLink]: https://github.com/webdevsk
