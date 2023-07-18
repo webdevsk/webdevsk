@@ -114,6 +114,8 @@ I'm Mohammed Salman Khan, a Junior Web developer 👨‍💻 with experience of 
 ![GitHub][GitHub]
 ![Markdown][Markdown]
 
+<br/>
+
 ## Connect with me
 
 [![Follow on GitHub][GitHub]][GitHubLink]
