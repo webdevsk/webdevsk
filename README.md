@@ -9,7 +9,7 @@
 I'm Mohammed Salman Khan, a Junior Web developer 👨‍💻 with experience of over 2 years. 🚀
 
 
-- 🔭 I’m currently working on my own [React based TODO App](https://github.com/webdevsk/react-todo-app)
+- 🔭 I’m currently working on my own [BestBuy clone App](https://github.com/webdevsk/bestbuy-clone)
 
 
 - 🌱 I’m currently learning React Redux
