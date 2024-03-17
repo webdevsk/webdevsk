@@ -8,9 +8,9 @@
 
 I'm Mohammed Salman Khan, a Junior Web developer 👨‍💻 with experience of over 2 years. 🚀
 
-- 🔭 I’m currently working on my own [BestBuy clone App](https://github.com/webdevsk/bestbuy-clone)
+- 🔭 I’m currently working at [Ezam Tech Solutions](https://www.linkedin.com/company/ezamtechsolutions-int) to bring over the next big Ecommerce Store in Asia.
 
-- 🌱 I’m currently learning React Redux
+- 🌱 I’m currently learning Next JS
 
 - ❓ Ask me about anything related to CSS, Vanilla JS and React.
 
@@ -28,7 +28,7 @@ I'm Mohammed Salman Khan, a Junior Web developer 👨‍💻 with experience of 
 
 ### Frontend
 
-<a href="https://reactjs.org/" target="_blank"><img style="margin-top: 8px" src="Assets/React.svg" alt="React" width="96px" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin-top: 8px" src="Assets/Next.svg" alt="Next JS" width="96px" /></a>
 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin-top: 8px" src="Assets/JavaScript.svg" alt="JavaScript" width="96px" /></a>
 
@@ -76,7 +76,7 @@ I'm Mohammed Salman Khan, a Junior Web developer 👨‍💻 with experience of 
 
 </table>
 
-<div align="left">
+<!-- <div align="left">
 
 ### React Hooks and Libraries
 
@@ -95,7 +95,7 @@ I'm Mohammed Salman Khan, a Junior Web developer 👨‍💻 with experience of 
 - Headless Ui
 - Floating Ui
 
-</div>
+</div> -->
 
 ### Others
 
@@ -121,6 +121,7 @@ I'm Mohammed Salman Khan, a Junior Web developer 👨‍💻 with experience of 
 
 Here are some of the UserScripts (Browser Scripts) that I made using `Vanilla JavaScript`
 
+1. [FB Mobile - Clean my feeds](https://greasyfork.org/en/scripts/479868-fb-mobile-clean-my-feeds) ![Greasy Fork](https://img.shields.io/greasyfork/dt/479868)
 1. [TorrentBD - Easy mentioning in Shoutbox](https://greasyfork.org/en/scripts/454697-torrentbd-easy-mentioning-in-shoutbox) ![Greasy Fork](https://img.shields.io/greasyfork/dt/454697)
 1. [TorrentBD - SeedBonus to Upload Credit Converter & Tab to Indent](https://greasyfork.org/en/scripts/450815-torrentbd-seedbonus-to-upload-credit-converter-tab-to-indent) ![Greasy Fork](https://img.shields.io/greasyfork/dt/450815)
 1. [TorrentBD True Dark CSS - Github Theme](https://greasyfork.org/en/scripts/430842-torrentbd-true-dark-css-github-theme) ![Greasy Fork](https://img.shields.io/greasyfork/dt/430842)
