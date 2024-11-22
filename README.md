@@ -142,6 +142,8 @@ Here are some of the UserScripts (Browser Scripts) that I made using `Vanilla Ja
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=webdevsk&show_icons=true&count_private=true&hide_border=false&theme=white)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=webdevsk&hide_border=true&mode=weekly&card_width=467)](https://git.io/streak-stats)
+
 <!-- Links -->
 
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
