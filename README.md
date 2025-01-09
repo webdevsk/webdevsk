@@ -6,19 +6,21 @@
 
 ### <div align="left">Hello There!</div>
 
-I'm Mohammed Salman Khan, a Junior Web developer 👨‍💻 with experience of over 2 years. 🚀
+I'm Mohammed Salman Khan, a Frontend Web Developer | NextJS FullStack Developer | MERN Stack Developer. 🚀
 
-- 🔭 I’m currently working at [Ezam Tech Solutions](https://www.linkedin.com/company/ezamtechsolutions-int) to bring over the next big Ecommerce Store in Asia.
+- 👨‍💻 I have over 3 years of experience working as a Frontend Developer.
 
-- 🌱 I’m currently learning Next JS
+- 🔭 I have 6 months of corporate experience working at Ezam Tech Solutions
+  
+- 🌱 I’m currently learning TypeScript
 
-- ❓ Ask me about anything related to CSS, Vanilla JS and React.
+- ❓ Ask me about anything related to Next.js, TypeScript, Tailwind CSS, and React.
 
-- ⚡ Fun fact: I use tabs over spaces
+- ⚡ Fun fact: I use Cursor over VSCode
 
 <br/>
 
-## My Skill Set
+## My Stack
 
 <table>
 
@@ -26,15 +28,38 @@ I'm Mohammed Salman Khan, a Junior Web developer 👨‍💻 with experience of 
 
 <td valign="top" width="300">
 
-### Frontend
+<br/>
+<br/>
 
-<a href="https://nextjs.org/" target="_blank"><img style="margin-top: 8px" src="Assets/Next.svg" alt="Next JS" width="96px" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin-top: 8px" src="Assets/nextdotjs-color.svg" alt="Next JS" width="96px" /></a>
 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin-top: 8px" src="Assets/JavaScript.svg" alt="JavaScript" width="96px" /></a>
+Next.js 14 15 SSR SSG
 
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin-top: 8px" src="Assets/Tailwind.svg" alt="Tailwind CSS" width="96px" /></a>
+<br/>
 
-<a href="https://redux.js.org/" target="_blank"><img style="margin-top: 8px" src="Assets/Redux.svg" alt="Redux" width="96px" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin-top: 8px" src="Assets/typescript-color.svg" alt="TypeScript" width="96px" /></a>
+
+TypeScript
+
+<br/>
+
+<a href="https://reactjs.org/" target="_blank"><img style="margin-top: 8px" src="Assets/react-color.svg" alt="React" width="96px" /></a>
+
+React 18 19
+
+<br/>
+
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin-top: 8px" src="Assets/tailwindcss-color.svg" alt="Tailwind CSS" width="96px" /></a>
+
+Tailwind CSS + Shadcn
+
+<br/>
+
+<a href="https://redux.js.org/" target="_blank"><img style="margin-top: 8px" src="Assets/redux-color.svg" alt="Redux" width="96px" /></a>
+
+Redux Toolkit
+
+<br/>
 
 <br/>
 
@@ -42,32 +67,76 @@ I'm Mohammed Salman Khan, a Junior Web developer 👨‍💻 with experience of 
 
 <td valign="top" width="300">
 
-### Backend
+<br/>
+<br/>
 
-<a href="https://nodejs.org/" target="_blank"><img style="margin-top: 8px" src="Assets/Node.svg" alt="Node.js" width="96px" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin-top: 8px" src="Assets/nodedotjs-color.svg" alt="Node.js" width="96px" /></a>
 
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin-top: 8px" src="Assets/Mongo.svg" alt="MongoDB" width="96px" /></a>
+Node / Bun
 
-<a href="https://www.mysql.com/" target="_blank"><img style="margin-top: 8px" src="Assets/MySQL.svg" alt="MySQL" width="96px" /></a>
+<br/>
 
-<a href="https://expressjs.com/" target="_blank"><img style="margin-top: 8px" src="Assets/Express.svg" alt="Express.js" width="96px" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin-top: 8px" src="Assets/express-color.svg" alt="Express.js" width="96px" /></a>
 
+Express.js
+
+<br/>
+
+<a href="https://orm.drizzle.team/" target="_blank"><img style="margin-top: 8px" src="Assets/drizzle-color.svg" alt="Drizzle ORM" width="96px" /></a>
+
+Drizzle ORM
+
+<br/>
+
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin-top: 8px" src="Assets/mongodb-color.svg" alt="MongoDB" width="96px" /></a>
+
+MongoDB
+
+<br/>
+
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin-top: 8px" src="Assets/postgresql-color.svg" alt="PostgreSQL" width="96px" /></a>
+
+PostgreSQL
+
+<br/>
 <br/>
 
 </td>
 
 <td valign="top" width="300">
 
-### Tools
+<br/>
+<br/>
 
-<a href="https://github.com/" target="_blank"><img style="margin-top: 8px" src="Assets/Git.svg" alt="Git" width="96px" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin-top: 8px" src="Assets/git-color.svg" alt="Git" width="96px" /></a>
 
-<a href="https://wordpress.com/" target="_blank"><img style="margin-top: 8px" src="Assets/Wordpress.svg" alt="WordPress" width="96px" /></a>
+Git / GitHub
 
-<a href="https://www.figma.com/" target="_blank"><img style="margin-top: 8px" src="Assets/Figma.svg" alt="Figma" width="96px" /></a>
+<br/>
 
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin-top: 8px" src="Assets/Xd.svg" alt="Adobe XD" width="96px" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin-top: 8px" src="Assets/docker-color.svg" alt="Docker" width="96px" /></a>
 
+Docker
+
+<br/>
+
+<a href="https://ubuntu.com/" target="_blank"><img style="margin-top: 8px" src="Assets/ubuntu-color.svg" alt="Ubuntu" width="96px" /></a>
+
+Ubuntu / VPS
+
+<br/>
+
+<a href="https://www.tampermonkey.net/" target="_blank"><img style="margin-top: 8px" src="Assets/tampermonkey-color.svg" alt="Tampermonkey" width="96px" /></a>
+
+Tampermonkey / Greasemonkey
+
+<br/>
+
+<a href="https://wordpress.org/" target="_blank"><img style="margin-top: 8px" src="Assets/wordpress-color.svg" alt="WordPress" width="96px" /></a>
+
+WordPress  
+
+<br/>
 <br/>
 
 </td>
@@ -97,23 +166,16 @@ I'm Mohammed Salman Khan, a Junior Web developer 👨‍💻 with experience of 
 
 </div> -->
 
-### Others
+<!-- ### Others -->
 
 <!-- These are reference links. Links can be found at the end of the document -->
 <!-- https://riptutorial.com/markdown/example/2215/reference-link -->
 
-![HTML5][HTML5]
+<!-- ![HTML5][HTML5]
 ![CSS3][CSS3]
-![TailwindCSS][TailwindCSS]
-![Bootstrap][Bootstrap]
 ![SASS][SASS]
-![Chakra]
-![MUI][MUI]
-![Styled Components][Styled Components]
-![Git][Git]
-![GitHub][GitHub]
-![Markdown][Markdown]
-![Redux][Redux]
+![Bootstrap][Bootstrap]
+![Markdown][Markdown] -->
 
 <br/>
 
