@@ -6,17 +6,19 @@
 
 ### <div align="left">Hello There!</div>
 
-I'm Mohammed Salman Khan, a Frontend Web Developer | NextJS FullStack Developer | MERN Stack Developer. 🚀
+I'm Mohammed Salman Khan, a Frontend Web Developer 👨‍💻 with experience of over 3 years. 🚀
 
-- 👨‍💻 I have over 3 years of experience working as a Frontend Developer.
+My preferred Tech Stack are: Next.js, TypeScript, ShadCN, Tailwind and Drizzle.
 
-- 🔭 I have 6 months of corporate experience working at Ezam Tech Solutions
-  
+I develop Browser Extensions as well.
+
+- 🔭 I’ve worked at [Ezam Tech Solutions](https://www.linkedin.com/company/ezamtechsolutions-int)
+
 - 🌱 I’m currently learning TypeScript
 
-- ❓ Ask me about anything related to Next.js, TypeScript, Tailwind CSS, and React.
+- ❓ Ask me about anything related to JavaScript, CSS and React
 
-- ⚡ Fun fact: I use Cursor over VSCode
+- ⚡ Fun fact: I became a dev before the 'Vibe Coding' era
 
 <br/>
 
