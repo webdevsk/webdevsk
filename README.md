@@ -202,6 +202,18 @@ Here are some of the UserScripts (Browser Scripts) that I made using `Vanilla Ja
 
 <br/>
 
+
+## Buy me a coffee
+
+<details>
+
+![](/Assets/binance-support.jpg)
+
+</details>
+
+
+<br/>
+
 ## Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=webdevsk&show_icons=true&count_private=true&hide_border=false&theme=white)
